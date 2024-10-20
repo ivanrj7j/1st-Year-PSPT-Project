@@ -2,7 +2,7 @@
 
 ## Assignment - 1
 
-This repository contains solutions for Assignment - 1 of the Problem Solving and Programming Techniques course. The assignment covers basic algorithm, flowchart, and C programming tasks.
+This repository contains solutions for **Assignment - 1** of the **Problem Solving and Programming Techniques** course. The assignment covers basic algorithm, flowchart, and C programming tasks.
 
 ## Author
 **Name:** Ivan Raphel Jaison  
@@ -29,8 +29,8 @@ The project addresses the following problems:
    - C Program
 
 4. **Sum the following series for n terms:**  
-   - (a) 1 + 1/8 + 1/27 + ... + 1/n³  
-   - (b) 1 + x²/2! + ... + x²n/2n!  
+   - (a) \( 1 + \frac{1}{8} + \frac{1}{27} + \dots + \frac{1}{n^3} \)  
+   - (b) \( 1 + \frac{x^2}{2!} + \dots + \frac{x^{2n}}{(2n)!} \)  
    - Algorithm  
    - Flowchart  
    - C Program
@@ -48,9 +48,16 @@ The project addresses the following problems:
    - C Program
 
 ## Project Structure
-- **src**: Contains the C programs for all problems.
-- **algorithms**: Contains the algorithms for each problem.
-- **flowcharts**: Contains the flowcharts for each problem.
+The project is divided into three main folders:
+
+- **src**:  
+  This folder contains the C programs for each problem. These are the actual implementation files where the logic for palindrome check, prime number check, Fibonacci series, series summation, and pattern printing is written in C.
+
+- **algorithms**:  
+  This folder contains `.algo` files for each problem. Each `.algo` file describes the step-by-step algorithm used to solve the corresponding problem. These algorithms serve as a blueprint before writing the C programs.
+
+- **flowcharts**:  
+  This folder contains flowchart diagrams for each problem. Flowcharts visually represent the logic and flow of the program, making it easier to understand the control flow and decision-making processes in the solution.
 
 ## Warning
-Please do not plagiarize. Ensure that all work submitted is your own. This is for reference purposes only.
+Please do not plagiarize. Ensure that all work submitted is your own. This is for reference purposes only. I will not be responsible if copying this gets you into trouble.
