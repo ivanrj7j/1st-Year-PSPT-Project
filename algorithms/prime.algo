@@ -1,0 +1,20 @@
+Step 1: SET isPrime := 1
+Step 2: PRINT Enter a number :
+Step 3: READ  num
+Step 4: Repeat step 1 to 3 while i < sqrt ( num ) { ;
+	Step 1: if num % i = 0 then :
+		Step 1: SET isPrime := 0
+        Step 2: STOP
+	End of if block
+	Step 2: if i ! = 2 then :
+		Step 1: SET i := i + 1
+	End of if block
+	Step 3: SET }i := i + 1
+End of for block
+Step 4: if isPrime then :
+	Step 1: PRINT num
+End of if block
+Step 5: else :
+	Step 1: PRINT num
+End of else block
+Step 6: PRINT \ n

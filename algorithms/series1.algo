@@ -1,0 +1,8 @@
+Step 1: SET sum := 0
+Step 2: PRINT Enter n :
+Step 3: READ  n
+Step 4: Repeat step 1 to 2 while i < = n ;
+	Step 1: SET sum := sum + pow ( i , - 3 )
+	Step 2: SET i := i + 1
+End of for block
+Step 4: PRINT sum

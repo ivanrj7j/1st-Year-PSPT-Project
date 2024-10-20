@@ -1,0 +1,23 @@
+Begin procedure factorial(int x):-
+Step 1: SET result := 1
+Step 2: Repeat step 1 to 2 while i < = x ;
+	Step 1: SET result := result * i
+	Step 2: SET i := i + 1
+End of for block
+Step 2: RETURN result
+End procedure
+
+
+Begin procedure main():-
+Step 1: PRINT Enter n :
+Step 2: READ  n
+Step 3: PRINT Enter x :
+Step 4: READ  x
+Step 5: SET sum := 0
+Step 6: Repeat step 1 to 2 while i < n ;
+    Step 2: SET term = x^2i/(2i!)
+	Step 2: SET sum := sum + term
+	Step 3: SET i := i + 1
+End of for block
+Step 6: PRINT sum
+End procedure

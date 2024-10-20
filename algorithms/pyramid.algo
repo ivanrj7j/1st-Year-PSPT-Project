@@ -1,0 +1,16 @@
+Step 1: PRINT Enter the number of rows :
+Step 2: READ  n
+Step 3: Repeat step 1 to 3 while i < = n ;
+	Step 1: SET space := n - i
+	Step 2: Repeat step 1 to 3 while j < = n ;
+		Step 1: if j < = space then :
+			Step 1: PRINT 
+		End of if block
+		Step 2: else :
+			Step 1: PRINT j - space
+		End of else block
+		Step 3: SET j := j + 1
+	End of for block
+	Step 2: PRINT \ n
+	Step 3: SET i := i + 1
+End of for block

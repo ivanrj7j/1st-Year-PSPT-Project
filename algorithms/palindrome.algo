@@ -1,0 +1,15 @@
+Step 1: SET reversed := 0
+Step 2: PRINT Enter a number :
+Step 3: READ  num
+Step 4: SET copy := num
+Step 5: Repeat step 1 to  2 while num > 0
+	Step 1: SET reversed := ( reversed * 10 ) + ( num % 10 )
+	Step 2: SET num := num / 10
+End of while block
+Step 5: if reversed = copy then :
+	Step 1: PRINT reversed
+End of if block
+Step 6: else :
+	Step 1: PRINT copy
+End of else block
+Step 7: PRINT \ n

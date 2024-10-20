@@ -1,0 +1,11 @@
+Step 1: SET num1 := 0
+Step 2: SET num2 := 1
+Step 3: PRINT Enter the limit :
+Step 4: READ  limit
+Step 5: PRINT 0 \ n
+Step 6: Repeat step 1 to  4 while num2 < = limit
+	Step 1: PRINT num2
+	Step 2: SET temp := num2
+	Step 3: SET num2 := num2 + num1
+	Step 4: SET num1 := temp
+End of while block
