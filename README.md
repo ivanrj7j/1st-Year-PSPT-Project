@@ -1,5 +1,9 @@
 # Problem Solving and Programming Techniques
 
+## Warning
+
+The algorithm and flowcharts are automatically generated from the source code
+
 ## Assignment - 1
 
 This repository contains solutions for **Assignment - 1** of the **Problem Solving and Programming Techniques** course. The assignment covers basic algorithm, flowchart, and C programming tasks.
